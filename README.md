@@ -1,6 +1,8 @@
 # Guess
 A small number guessing game
 
+Code extent: 95 bytes
+
 -----
 
 Version history
