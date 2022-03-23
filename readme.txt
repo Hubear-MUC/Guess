@@ -7,7 +7,7 @@ It is a number guessing game.
 
 A random number is generated and the user has to guess.
 
-Just invoke the program and have fun guesing the number.
+Just invoke the program and have fun guessing the number.
 
 
 
