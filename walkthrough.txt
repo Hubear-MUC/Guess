@@ -1,0 +1,11 @@
+Guess 1.0 - Walkthrough
+-----------------------
+
+OK, the number is not really a random number because the usage of the random- number functions of libc would exceed the limited code space for this project.
+
+The number that has to be guessed is
+
+  5
+  
+If you guess so, the program will let you know. :)
+
