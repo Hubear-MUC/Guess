@@ -1,11 +1,11 @@
-#include "incl.h"
-int i;
-main()
+#include <stdio.h>
+#include "x/gge.h"
+int a,i;
+int main()
 {
-i = 0;
- while(i!=5)
- {
-  i=in();
- }
+a=dice10();
+i=0;
+while(i!=a)
+{printf ("Guess : ");scanf ("%d", &i);}
 printf ("Yeah!\n");
 }
