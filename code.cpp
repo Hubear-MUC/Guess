@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include "x/gge.h"
-int a,i;
+ggeDice* dice; int a,b;
 int main()
-{
-a=dice10();
-i=0;
-while(i!=a)
-{printf ("Guess : ");scanf ("%d", &i);}
-printf ("Yeah!\n");
-}
+{dice=new ggeDice(10);b=(*dice).roll();
+while (a!=b){printf("> ");scanf_s("%d", &a);}printf("Yes!\n");}
