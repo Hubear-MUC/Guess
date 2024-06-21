@@ -3,7 +3,7 @@ A small number guessing game
 
 See "readme.txt" for details.
 
-Code extent: 148 bytes
+Code extent: 189 bytes
 
 -----
 
