@@ -3,12 +3,17 @@ A small number guessing game
 
 See "readme.txt" for details.
 
-Code extent: 189 bytes
+Code extent: 192 bytes
 
 -----
 
 Version history
 ---------------
+
+Version 3.1:
+
+Restructured the code a little to make it more readable and maintainable
+
 
 Version 3.0:
 
